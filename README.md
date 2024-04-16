@@ -1,2 +1,2 @@
 # Python
-Home for all my Python projects
+Home for all my Python projects.
